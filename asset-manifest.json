@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RPG_cleanup_number_game/static/css/main.a5f1e550.css",
+    "main.js": "/RPG_cleanup_number_game/static/js/main.2a2d2f03.js",
+    "static/js/453.a57f5805.chunk.js": "/RPG_cleanup_number_game/static/js/453.a57f5805.chunk.js",
+    "index.html": "/RPG_cleanup_number_game/index.html",
+    "main.a5f1e550.css.map": "/RPG_cleanup_number_game/static/css/main.a5f1e550.css.map",
+    "main.2a2d2f03.js.map": "/RPG_cleanup_number_game/static/js/main.2a2d2f03.js.map",
+    "453.a57f5805.chunk.js.map": "/RPG_cleanup_number_game/static/js/453.a57f5805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f1e550.css",
+    "static/js/main.2a2d2f03.js"
+  ]
+}
